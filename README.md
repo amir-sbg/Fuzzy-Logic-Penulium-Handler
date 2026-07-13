@@ -152,7 +152,3 @@ The repository already contains charts for:
 - Force output terms in `images/force.png`
 
 The generated preview at the top of this README combines the actual force membership chart with a source-grounded recreation of the Pygame world and control loop.
-
-## License
-
-No license file is currently included. Add a license before distributing or reusing the project as a library.
